@@ -1,2 +1,2 @@
 # java-practice
-  This repository is a compilation of simple Java code I've written to practice with Java.
+  This repository is just me having fun with Java back when I was first learning it
